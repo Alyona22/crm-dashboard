@@ -1,0 +1,18 @@
+:root {
+  --page-bg: #FAFBFF;
+  --search-bg: #F9FBFF;
+  --search-gray: #7E7E7E;
+  --color-gray-1: #838383;
+  --color-gray-2: #9197B3;
+  --color-gray-3: #757575;
+  --color-gray-4: #B5B7C0;
+  --color-gray-5: #EEEEEE;
+  --color-gray-6: #F5F5F5;
+  --color-gray-7: #404B52;
+  --purple: #5932EA;
+  --green-1: #16C098;
+  --green-2: #00B087;
+  --green-3: rgba(22, 192, 152, 0.38);
+  --red-1: #DF0404;
+  --red-2: #FFC5C5;
+}
