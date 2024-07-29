@@ -29,7 +29,7 @@ const Logo = () => {
                           fill="#000000" fillOpacity="1.000000" fillRule="nonzero"/>
                 </g>
             </svg>
-            <span className='text-[10px] text-gray-1 ml-2'>{`v.${version}`}</span>
+            <span className='text-[10px] text-gray-1 ml-1 mt-3'>{`v.${version}`}</span>
         </Link>
   )
 }
